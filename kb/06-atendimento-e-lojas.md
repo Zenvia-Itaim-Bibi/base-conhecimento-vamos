@@ -15,6 +15,8 @@ Para assuntos de um contrato existente (manutenção, multa, guincho, documenta�
 A Vamos atende **em todo o Brasil**, com lojas próprias, mais de 80 parceiros comerciais e mais de 5 mil oficinas credenciadas. O site tem uma página específica de locação de caminhões em **Campinas e região**.
 
 ## Lojas Vamos Seminovos
+**Atenção:** estas são as lojas da **Vamos Seminovos**, de **venda** de caminhões e máquinas usados. O site não lista pontos de atendimento de **locação**: a locação é contratada com um consultor, com atendimento em todo o Brasil. Se o lead perguntar por loja para alugar, explique isso e diga que o consultor atende a região dele. Só cite estas lojas se ele quiser comprar um seminovo ou visitar uma loja.
+
 Horário padrão: segunda a sexta, das 8h às 17h; sábado, das 8h às 12h; fechado aos domingos e feriados. A loja de Uberlândia não informa horário no site.
 
 | Loja | Endereço |
