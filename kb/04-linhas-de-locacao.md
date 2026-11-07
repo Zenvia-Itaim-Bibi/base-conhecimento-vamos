@@ -9,6 +9,7 @@ Todas as linhas funcionam do mesmo jeito: contrato com prazo definido, mensalida
 - Com implementos para cada tipo de carga.
 - Atende logística, distribuição, agro e construção.
 - **Sempre Novo:** opção de alugar caminhões seminovos revisados. Veja o arquivo do Sempre Novo.
+- **Elétricos:** a frota de locação tem ativos elétricos (mais de 7% dos ativos locados, segundo o site). Veja o arquivo de elétricos e sustentabilidade.
 
 ## Agro (máquinas e equipamentos agrícolas)
 - Máquinas e equipamentos para as diferentes etapas da safra, da **preparação do solo e plantio aos tratos culturais e à colheita**.
